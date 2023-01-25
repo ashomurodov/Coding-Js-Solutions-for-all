@@ -1,5 +1,1 @@
-Hello 👋
-it's my first github work :)
-
--ayyuubiy
-
+Coding js solutions for all/
