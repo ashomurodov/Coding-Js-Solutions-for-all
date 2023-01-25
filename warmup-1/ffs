@@ -9,7 +9,7 @@ function max1020(a, b){
           num = b;
         } 
         if(b>max){
-          num = a
+          num = a;
         }
 
         return num
@@ -18,7 +18,7 @@ function max1020(a, b){
     if(a<=20 && b<=20){
       let max1 = a;
       if(b>max1){
-        max1=b
+        max1=b;
       }
       return max1
     }
